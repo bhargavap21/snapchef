@@ -135,4 +135,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Distributed under the MIT license. See `LICENSE` for more information.
 
-[https://github.com/bhargava21/SnapChef]
+[https://github.com/bhargava21/snapchef]
